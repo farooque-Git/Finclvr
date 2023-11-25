@@ -1,0 +1,20 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "firstName": "John",
+      "position": "Head of trading",
+      "info": "“”",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "firstName": "Jane",
+      "position": "Senior Analyst",
+      "info": "“”"
+    }
+   
+  ]
+}
